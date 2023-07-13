@@ -1,0 +1,3 @@
+ALUNO: Lucas Bavaresco
+
+DEPOIMENTO: Incrível oportunidade tem sido pra mim "Do Zero ao Primeiro Site", proporcionada por +praTI & Codifica, de suma importância na minha caminhada para alcançar o meu objetivo de atuar na área de programação! Quero destacar também, a minha gratidão ao mentor Henrique, Diraci, cada um dos profissionais e colegas envolvidos, por tanta dedicação e contribuição durante toda a jornada de nossa formação, pois estou curtindo demais desde o primeiro dia e aproveitando ao máximo para seguir evoluindo e ser apenas o início! 
